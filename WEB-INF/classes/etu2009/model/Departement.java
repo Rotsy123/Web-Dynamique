@@ -1,7 +1,6 @@
 package etu2009.framework.model;
 
 import etu2009.framework.servlet.ModelView;
-import ;
 
 
 public class Departement {
